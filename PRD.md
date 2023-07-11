@@ -28,5 +28,3 @@ O Gitflow pode ser usado para projetos que têm um ciclo de lançamento agendado
 # Nicoly Lana
 ## Garanhuns
 ### Trilha QA
-
---
